@@ -1,0 +1,25 @@
+languageCode = "en"
+languageName = "English"
+displayName = ":flag-uk:"
+isoCode = "en-UK"
+weight = 1
+rtl = false
+
+title = "jorrit.co"
+# logo = "img/logo.jpg"
+description = "The website of Jorrit Gorseman."
+copyright = "&copy; 2022 Jorrit Gorseman"
+
+dateFormat = "2 January 2006"
+
+[author]
+  name = "Jorrit Gorseman"
+  image = "img/author.jpg"
+  headline = "Test Analyst based in the Netherlands"
+  bio = ""
+  links = [
+    { email= "mailto:jorrit.gorseman@gmail.com" },
+    { linkedin = "https://www.linkedin.com/in/jorritgorseman/" },
+    { github = "https://github.com/jgorseman" },
+    { facebook = "https://www.facebook.com/jgorseman/" },
+  ]
