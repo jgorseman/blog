@@ -15,7 +15,7 @@ dateFormat = "2 January 2006"
 [author]
   name = "Jorrit Gorseman"
   image = "img/author.jpg"
-  headline = "Test Analyst based in the Netherlands"
+  headline = "Concerned with all things quality"
   bio = ""
   links = [
     { email= "mailto:jorrit.gorseman@gmail.com" },
