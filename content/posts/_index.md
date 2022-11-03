@@ -1,5 +1,5 @@
 ---
-title: "Writings"
+title: "Posts"
 description: ""
 
 cascade:
@@ -8,5 +8,5 @@ cascade:
 ---
 
 {{< lead >}}
-Thoughts on quality.
+What I've written so far.
 {{< /lead >}}
