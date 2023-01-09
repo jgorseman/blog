@@ -1,10 +1,10 @@
 ---
 title: "What is regression testing?"
-description: ""
-
-cascade:
-  showEdit: false
-  showSummary: true
+date: 2022-01-09
+draft: false
+description: "What regression testing is, and why it's important"
+slug: "regression-testing"
+tags: ["regression", "testing", "test", "cases", "list"]
 ---
 
 If you simply want the TL;DR, scroll to the bottom.
