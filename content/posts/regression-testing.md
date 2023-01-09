@@ -3,14 +3,16 @@ title: "What is regression testing?"
 date: 2022-01-09
 draft: false
 description: "What regression testing is, and why it's important"
-summary: "What regression testing is, and why it's important"
+summary: "Why it's important, and how you can set it up"
 slug: "regression-testing"
 tags: ["regression", "testing", "test", "cases", "list"]
 ---
 
+![Infinite Regression Staircase](/assets/img/spiral-staircase.png 'Infinite Regression Staircase')
+
 If you simply want the TL;DR, scroll to the bottom.
 
-When I started working as a software tester at a logistics company, the team I was in had a platform of seven different apps, ranging from a year to ten years old in age. 
+When I started working as a software tester at a logistics company, the team I was in had a platform of seven different apps, ranging from a year to ten years old in age.
 
 Ten years is a long time in software land, and so the older apps had become very complex to develop in, but also to test. In order to verify that the unchanged parts of the app still worked as intended after new code was added, we had to do regression testing.
 
