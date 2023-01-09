@@ -8,7 +8,7 @@ slug: "regression-testing"
 tags: ["regression", "testing", "test", "cases", "list"]
 ---
 
-![Infinite Regression Staircase](/assets/img/spiral-staircase.png 'Infinite Regression Staircase')
+![Infinite Regression Staircase](/assets/img/spiral-staircase.png)
 
 If you simply want the TL;DR, scroll to the bottom.
 
