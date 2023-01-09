@@ -3,6 +3,7 @@ title: "What is regression testing?"
 date: 2022-01-09
 draft: false
 description: "What regression testing is, and why it's important"
+summary: "What regression testing is, and why it's important"
 slug: "regression-testing"
 tags: ["regression", "testing", "test", "cases", "list"]
 ---
