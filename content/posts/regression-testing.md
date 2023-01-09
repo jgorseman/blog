@@ -8,8 +8,6 @@ slug: "regression-testing"
 tags: ["regression", "testing", "test", "cases", "list"]
 ---
 
-![Infinite Regression Staircase](/assets/img/spiral-staircase.png)
-
 If you simply want the TL;DR, scroll to the bottom.
 
 When I started working as a software tester at a logistics company, the team I was in had a platform of seven different apps, ranging from a year to ten years old in age.
