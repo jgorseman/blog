@@ -8,7 +8,7 @@ rtl = false
 title = "jorrit.co"
 # logo = "img/logo.jpg"
 description = "The website of Jorrit Gorseman."
-copyright = "&copy; 2022 Jorrit Gorseman"
+copyright = "&copy; 2023 Jorrit Gorseman"
 
 dateFormat = "2 January 2006"
 
