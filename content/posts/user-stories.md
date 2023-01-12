@@ -2,8 +2,8 @@
 title: "Refining user stories"
 date: 2022-01-12
 draft: false
-description: "What good user stories contain, and why"
-summary: "What good user stories contain, and why"
+description: "What does a good user story contain?"
+summary: "What does a good user story contain?"
 slug: "user-stories"
 tags: ["user", "stories", "gwt", "scenarios", "acceptance", "criteria"]
 ---

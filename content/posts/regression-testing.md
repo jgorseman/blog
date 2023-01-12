@@ -1,9 +1,9 @@
 ---
-title: "What is regression testing?"
+title: "Setting up regression testing"
 date: 2022-01-09
 draft: false
-description: "What regression testing is, and why it's important"
-summary: "Why it's important, and how you can set it up"
+description: "What's regression testing?"
+summary: "What's regression testing?"
 slug: "regression-testing"
 tags: ["regression", "testing", "test", "cases", "list"]
 ---
