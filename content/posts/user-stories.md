@@ -8,7 +8,7 @@ slug: "user-stories"
 tags: ["user", "stories", "gwt", "scenarios", "acceptance", "criteria"]
 ---
 
-User stories are the easiest way to verify for a tester whether a new functionality is acceptable—if they contain the right information. 
+User stories are the easiest way to verify for a tester whether a new functionality is acceptable—if they contain the right information.
 
 User stories are taken from the agile way of working, and are essentially tasks bundled together in such a way that you get a cohesive piece of functionality for your software when it’s finished.
 
