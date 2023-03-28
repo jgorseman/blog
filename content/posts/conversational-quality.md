@@ -1,9 +1,9 @@
 ---
-title: "Conversations and technology"
+title: "Conversations are better with less technology"
 date: 2023-03-28
 draft: false
-description: "Conversations are better with less technology"
-summary: "Conversations are better with less technology"
+description: ""
+summary: ""
 slug: "regression-testing"
 tags: ["conversation", "social", "attention", "minimalism", "digital"]
 ---
