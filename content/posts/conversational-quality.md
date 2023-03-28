@@ -4,6 +4,7 @@ date: 2023-03-28
 draft: false
 description: ""
 summary: ""
+showSummary: false
 slug: "regression-testing"
 tags: ["conversation", "social", "attention", "minimalism", "digital"]
 ---

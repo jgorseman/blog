@@ -4,6 +4,7 @@ date: 2022-01-09
 draft: false
 description: "What's regression testing?"
 summary: "What's regression testing?"
+showSummary: false
 slug: "regression-testing"
 tags: ["regression", "testing", "test", "cases", "list"]
 ---

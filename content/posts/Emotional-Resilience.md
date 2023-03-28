@@ -2,6 +2,7 @@
 title: "Emotional Resilience"
 date: 2019-10-21T12:38:37+01:00
 draft: false
+showSummary: false
 ---
 
 *”There is neither happiness nor misery in the world; there is only the comparison of one state with another, nothing more. He who has felt the deepest grief is best able to experience supreme happiness. We must have felt what it is to die, that we may appreciate the enjoyments of life.”* — Alexandre Dumas

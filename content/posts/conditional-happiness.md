@@ -3,6 +3,7 @@ title: "Conditional happiness"
 date: 2019-12-27
 draft: false
 description: "Why conditional happiness is a common source of misery"
+showSummary: false
 summary: "Why conditional happiness is a common source of misery"
 slug: "conditional-happiness"
 tags: ["happiness", "conditional", "unconditional", "drive", "acceptance"]
