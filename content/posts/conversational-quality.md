@@ -4,7 +4,7 @@ date: 2023-03-28
 draft: false
 description: ""
 summary: ""
-cover: DALL·E 2023-03-29 07.20.15 - two people talking through each other, renaissance art.png
+cover: img/DALL·E 2023-03-29 07.20.15 - two people talking through each other, renaissance art.png
 showSummary: false
 slug: "regression-testing"
 tags: ["conversation", "social", "attention", "minimalism", "digital"]
