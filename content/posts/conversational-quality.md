@@ -1,5 +1,5 @@
 ---
-title: "Conversational quality"
+title: "Conversations are better with less technology"
 date: 2023-03-28
 draft: false
 description: ""
