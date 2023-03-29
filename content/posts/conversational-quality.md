@@ -9,6 +9,8 @@ slug: "regression-testing"
 tags: ["conversation", "social", "attention", "minimalism", "digital"]
 ---
 
+{{ $image := resources.Get "assets/img/DALL·E 2023-03-29 07.20.15 - two people talking through each other, renaissance art.png" }}
+
 Conversations are better when less technology is involved.
 
 First of all, talking with others through a screen is a two dimensional experience involving only two senses, and not fully making use of those two either, as the visual and sound quality of video calls are often less than optimal. Until technology is sufficiently advanced that video and sound are indistinguishable from real life, real life will be better.
