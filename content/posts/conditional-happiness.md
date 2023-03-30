@@ -7,6 +7,7 @@ showSummary: false
 summary: "Why conditional happiness is a common source of misery"
 slug: "conditional-happiness"
 tags: ["psychology"]
+showReadingTime: false
 ---
 
 "If X happens, then I'll be happy."

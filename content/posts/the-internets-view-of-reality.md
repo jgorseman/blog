@@ -5,6 +5,7 @@ draft: false
 showSummary: false
 slug: "the-internets-view-of-reality"
 tags: ["technology"]
+showReadingTime: false
 ---
 
 Whenever you read something online, know that that represents a single view.

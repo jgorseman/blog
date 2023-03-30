@@ -4,6 +4,7 @@ date: 2019-10-05T13:14:22+01:00
 draft: false
 showSummary: false
 tags: ["philosophy"]
+showReadingTime: false
 ---
 
 *I recommend skipping this post if you still want to see the film Arrival. Spoilers ahead.*

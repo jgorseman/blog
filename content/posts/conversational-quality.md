@@ -7,6 +7,7 @@ summary: ""
 showSummary: false
 slug: "regression-testing"
 tags: ["technology"]
+showReadingTime: false
 ---
 
 Conversations are better when less technology is involved.

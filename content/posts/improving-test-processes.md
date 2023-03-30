@@ -5,5 +5,6 @@ draft: false
 showSummary: false
 slug: "improving-test-processes"
 tags: ["software testing"]
+showReadingTime: false
 ---
 

@@ -7,6 +7,7 @@ summary: "What's regression testing?"
 showSummary: false
 slug: "regression-testing"
 tags: ["software testing"]
+showReadingTime: false
 ---
 
 If you simply want the TL;DR, scroll to the bottom.

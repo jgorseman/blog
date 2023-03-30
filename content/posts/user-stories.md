@@ -7,6 +7,7 @@ summary: "What does a good user story contain?"
 showSummary: false
 slug: "user-stories"
 tags: ["software testing"]
+showReadingTime: false
 ---
 
 User stories are the easiest way to verify for a tester whether a new functionality is acceptable—if they contain the right information.
