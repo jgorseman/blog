@@ -11,9 +11,14 @@
 # ordered by weight from lowest to highest.
 
 [[main]]
-  name = "Posts"
+  name = "Blog"
   pageRef = "posts"
   weight = 20
+
+[[main]]
+  name = "Topics"
+  pageRef = "tags"
+  weight = 30
 
 # -- Footer Menu --
 # The footer menu is displayed at the bottom of the page, just before
