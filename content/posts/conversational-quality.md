@@ -6,7 +6,7 @@ description: ""
 summary: ""
 showSummary: false
 slug: "regression-testing"
-tags: ["conversation", "social", "attention", "minimalism", "digital"]
+tags: ["technology"]
 ---
 
 Conversations are better when less technology is involved.

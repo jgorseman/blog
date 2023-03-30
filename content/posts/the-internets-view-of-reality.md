@@ -4,6 +4,7 @@ date: 2023-03-29
 draft: false
 showSummary: false
 slug: "the-internets-view-of-reality"
+tags: ["technology"]
 ---
 
 Whenever you read something online, know that that represents a single view.
