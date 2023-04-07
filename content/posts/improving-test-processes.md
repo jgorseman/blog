@@ -12,9 +12,13 @@ You might be surprised that there are IT software development teams out there th
 
 But then software gets released that doesn't work, or doesn't work in the way the business intended.
 
+### Start testing
+
 Say you're in a team like that, the first thing you might do is test your user stories before they get released. This is a start. If it's the only thing you do, however, the chance that new code will break old functionalities as the system becomes more complex is big.
 
 You'll have to start testing the existing functionalities as well (called regression testing). When the system becomes complex enough over years of software development, trying to remember what old functionalities work in what way in order to test them before new code gets released is going to become impossible.
+
+### Document your tests
 
 In order to remember all the functionalities, you have to figure out what they are. Time to create a spreadsheet with all the apps in it and catalog all the old and new functionalities.
 
@@ -24,11 +28,15 @@ Now you're starting to set up a proper QA process. Figuring out how to get scena
 
 Even with risk-based testing there's still a lot to test, and testing everything you need to test manually before every release is time-consuming and because you have to test the same things over and over again, it's frankly boring as hell.
 
+### Automate your tests
+
 Here comes test automation. You get a tool that allows you to automate testing the existing functionalities, so there you go, you're now building automated tests. You've got a lot of catching up to do, it seems.
 
 Now the challenge is to automate tests covering functionalities faster than they are added. In other words, you gotta make sure new functionalities are covered with automated tests before they are released, else you will have always have a backlog to catch up to.
 
 Say you have your automated tests, but you as a tester are the only one running them, only after developers have built and peer reviewed their functionality, and the tests catch bugs. Now you have to go back to the developers after they have moved on to building other functionalities.
+
+### Make your automated tests run automatically
 
 So you're gonna want to tighten that feedback loop. Developers deploy their code to a dev/test environment, and what if the tests automatically run when that happens, and they give the developers results right after?
 
