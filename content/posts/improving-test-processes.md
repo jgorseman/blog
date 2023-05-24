@@ -5,7 +5,7 @@ draft: false
 showSummary: false
 slug: "improving-test-processes"
 tags: ["software testing"]
-summary: Going from no software testing, to automated test automation.
+summary: "Going from no software testing, to automated test automation."
 showReadingTime: false
 ---
 
