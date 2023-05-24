@@ -49,9 +49,9 @@ mainSections = ["posts"]
 
 [list]
   showBreadcrumbs = true
-  showSummary = false
+  showSummary = true
   showTableOfContents = true
-  groupByYear = false
+  groupByYear = true
 
 [sitemap]
   excludedKinds = ["taxonomy", "term"]
