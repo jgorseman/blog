@@ -1,7 +1,7 @@
 ---
 title: "The internet's view of reality"
 date: 2023-03-29
-draft: false
+draft: true
 showSummary: false
 slug: "the-internets-view-of-reality"
 tags: ["technology"]
