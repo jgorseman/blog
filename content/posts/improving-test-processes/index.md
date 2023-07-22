@@ -2,12 +2,14 @@
 title: "Improving the software QA process within your team"
 date: 2023-03-30
 draft: false
-showSummary: false
+showSummary: true
 slug: "improving-test-processes"
 tags: ["software testing"]
 summary: "Going from no software testing, to automated test automation."
 showReadingTime: false
 feature: "improving-test-processes/feature-improving-qa-process.jpg"
+coverAlt: "An example cover image depicting icons of some popular media organisations."
+coverCaption: "This is an example cover image with a caption."
 ---
 
 You might be surprised that there are IT software development teams out there that do not have a structured QA process, or even any testing process at all.
