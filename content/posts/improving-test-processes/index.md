@@ -7,7 +7,7 @@ slug: "improving-test-processes"
 tags: ["software testing"]
 summary: "Going from no software testing, to automated test automation."
 showReadingTime: false
-feature: "*feature-improving-qa-process.jpg*" 
+feature: "*feature*" 
 ---
 
 You might be surprised that there are IT software development teams out there that do not have a structured QA process, or even any testing process at all.
