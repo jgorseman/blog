@@ -1,5 +1,5 @@
 ---
-title: "Improving your QA process"
+title: "Improving the software QA process within your team"
 date: 2023-03-30
 draft: false
 showSummary: false
