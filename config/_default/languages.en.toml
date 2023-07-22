@@ -15,8 +15,8 @@ dateFormat = "2 January 2006"
 [author]
   name = "Jorrit Gorseman"
   image = "img/author.jpg"
-  headline = ""
-  bio = ""
+  headline = "QA engineer in the Netherlands"
+  bio = "Hi, my name is Jorrit Gorseman. I work as a QA engineer in the Netherlands and I'm passionate about al things quality, whether it's products, people or processes. On this site I share what I'm learning along the way."
   links = [
     { email= "mailto:jorrit.gorseman@gmail.com" },
     { linkedin = "https://www.linkedin.com/in/jorritgorseman/" },
