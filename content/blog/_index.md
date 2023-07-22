@@ -1,10 +1,10 @@
 ---
-title: "Posts"
+title: "Blog"
 description: ""
 
 cascade:
   showEdit: false
-  showSummary: true
+  showSummary: false
 ---
 
 {{< lead >}}
