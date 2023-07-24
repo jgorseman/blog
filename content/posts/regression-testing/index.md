@@ -6,7 +6,7 @@ description: "What's regression testing?"
 summary: "What's regression testing?"
 showSummary: true
 slug: "regression-testing"
-tags: ["software testing"]
+tags: ["regression testing"]
 showReadingTime: false
 summary: "A short explanation of regression testing."
 ---
