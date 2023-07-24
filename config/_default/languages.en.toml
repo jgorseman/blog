@@ -1,25 +1,65 @@
 languageCode = "en"
 languageName = "English"
-displayName = "EN"
-isoCode = "en"
 weight = 1
-rtl = false
 
 title = "Jorrit Gorseman"
-# logo = "img/logo.jpg"
-description = "The website of Jorrit Gorseman."
-copyright = "&copy; 2023 Jorrit Gorseman"
+# copyright = "Jorrit Gorseman 2023"
 
-dateFormat = "2 January 2006"
+[params]
+  isoCode = "en"
+  displayName = "EN"
+  rtl = false
+
+  dateFormat = "2 January 2006"
+
+  # mainSections = ["section1", "section2"]
+  # description = "The website of Jorrit Gorseman"
 
 [author]
   name = "Jorrit Gorseman"
   image = "img/author.jpg"
-  headline = "QA engineer in the Netherlands"
-  bio = "Hi, my name is Jorrit Gorseman. I work as a QA engineer in the Netherlands and I'm passionate about al things quality, whether it's products, people or processes. On this site I share what I'm learning along the way."
-  links = [
-    { email= "mailto:jorrit.gorseman@gmail.com" },
-    { linkedin = "https://www.linkedin.com/in/jorritgorseman/" },
-    { github = "https://github.com/jgorseman" },
-    { facebook = "https://www.facebook.com/jgorseman/" },
-  ]
+  headline = "Software QA Engineer"
+  bio = "Hi, my name is Jorrit Gorseman. This is the place where I collect and share things I learn. I hope it may be of help to you too."
+   links = [
+  #   { email = "mailto:hello@your_domain.com" },
+  #   { link = "https://link-to-some-website.com/" },
+  #   { amazon = "https://www.amazon.com/hz/wishlist/ls/wishlist-id" },
+  #   { apple = "https://www.apple.com" },
+  #   { blogger = "https://username.blogspot.com/" },
+  #   { codepen = "https://codepen.io/username" },
+  #   { dev = "https://dev.to/username" },
+  #   { discord = "https://discord.gg/invitecode" },
+  #   { dribbble = "https://dribbble.com/username" },
+  #   { facebook = "https://facebook.com/username" },
+  #   { flickr = "https://www.flickr.com/photos/username/" },
+  #   { foursquare = "https://foursquare.com/username" },
+  #   { github = "https://github.com/username" },
+  #   { gitlab = "https://gitlab.com/username" },
+  #   { google = "https://www.google.com/" },
+  #   { hashnode = "https://username.hashnode.dev" },
+  #   { instagram = "https://instagram.com/username" },
+  #   { keybase = "https://keybase.io/username" },
+  #   { kickstarter = "https://www.kickstarter.com/profile/username" },
+  #   { lastfm = "https://lastfm.com/user/username" },
+     { linkedin = "https://linkedin.com/in/jorritgorseman" },
+  #   { mastodon = "https://mastodon.instance/@username" },
+  #   { medium = "https://medium.com/username" },
+  #   { microsoft = "https://www.microsoft.com/" },
+  #   { orcid = "https://orcid.org/userid" },
+  #   { patreon = "https://www.patreon.com/username" },
+  #   { pinterest = "https://pinterest.com/username" },
+  #   { reddit = "https://reddit.com/user/username" },
+  #   { researchgate = "https://www.researchgate.net/profile/username" },
+  #   { slack = "https://workspace.url/team/userid" },
+  #   { snapchat = "https://snapchat.com/add/username" },
+  #   { soundcloud = "https://soundcloud.com/username" },
+  #   { stack-overflow = "https://stackoverflow.com/users/userid/username" },
+  #   { steam = "https://steamcommunity.com/profiles/userid" },
+  #   { telegram = "https://t.me/username" },
+  #   { tiktok = "https://tiktok.com/@username" },
+  #   { tumblr = "https://username.tumblr.com" },
+  #   { twitch = "https://twitch.tv/username" },
+  #   { twitter = "https://twitter.com/username" },
+  #   { whatsapp = "https://wa.me/phone-number" },
+  #   { youtube = "https://youtube.com/username" },
+   ]
