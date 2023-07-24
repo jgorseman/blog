@@ -25,9 +25,25 @@ You'll have to start testing the existing functionalities as well (called regres
 
 ### Document your tests
 
-In order to remember all the functionalities, you have to figure out what they are. Time to create a spreadsheet with all the apps in it and catalog all the old and new functionalities. The columns I currently have in my spreadsheet are: *risk, title, required test data, where to test, actions to perform, expected results, used test data, test environment, date tested, pass/fail/discuss/skip, comments by tester, comments by developer.*
+In order to remember all the functionalities, you have to figure out what they are. Time to create a spreadsheet with all the apps in it and catalog all the old and new functionalities. I also use this same spreadsheet to document the last round of testing I've done, so I've divided the spreadsheet into left (documentation) and right (tracking what I've tested) The columns I currently have on the left in my spreadsheet are:
 
-At a certain point, however, you'll have so many functionalities that testing them all is impossible anyway. So you start doing risk-based testing, where you categorize functionalities by high/medium/low risk, and test only the high (and sometimes medium) risk functionalities before a release.
+- risk (high/medium/low)
+- title
+- required test data
+- where to test (page, module, tool)
+- test steps (actions to perform)
+- expected results
+
+The columns I have on the right are:
+
+- used test data
+- used environment (dev/test/accp/prod)
+- date tested
+- status (pass/fail/discuss/skipped)
+- comments by tester
+- comments by developer
+
+At a certain point, however, you'll have so many functionalities in your software that testing them all is impossible anyway. So you start doing risk-based testing, where you categorize functionalities by high/medium/low risk, and test only the high (and sometimes medium) risk functionalities before a release.
 
 Now you're starting to set up a proper QA process. Figuring out how to get scenarios from new user stories into the spreadsheet effectively can be done by telling your team to write Given-When-Then scenarios that can be used in development and testing, and those will make it easier to implement test cases in your spreadsheet.
 
