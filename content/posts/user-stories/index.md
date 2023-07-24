@@ -6,7 +6,7 @@ description: "What does a good user story contain?"
 summary: "What a user story is, and what a good one contains in order for developers and testers to work efficiently."
 showSummary: true
 slug: "user-stories"
-tags: ["software testing"]
+tags: ["user story"]
 showReadingTime: false
 ---
 
