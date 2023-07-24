@@ -2,7 +2,7 @@
 # Refer to the theme docs for more details about each of these parameters.
 # https://jpanther.github.io/congo/docs/getting-started/
 
-baseURL = "http://jorrit.co"
+baseURL = "https://www.jorrit.co"
 defaultContentLanguage = "en"
 
 theme = "congo"
