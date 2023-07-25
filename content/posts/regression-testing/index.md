@@ -1,12 +1,12 @@
 ---
 title: "Regression testing"
-date: 2022-01-09
+date: 2023-07-16
 draft: false
 description: "What's regression testing?"
 summary: "What's regression testing?"
 showSummary: true
 slug: "regression-testing"
-tags: ["regression testing"]
+tags: ["Regression testing"]
 showReadingTime: false
 summary: "A short explanation of regression testing."
 ---
