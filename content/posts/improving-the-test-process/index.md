@@ -1,10 +1,10 @@
 ---
 title: "Improving the software testing process within your team"
-date: 2023-03-30
+date: 2023-07-23
 draft: false
 showSummary: true
 slug: "improving-the-test-process"
-tags: ["process"]
+tags: ["Test process"]
 summary: "A short, abstract overview of how you can go from not testing the software you build at all to an automated software testing process."
 showReadingTime: false
 coverAlt: "An example cover image depicting icons of some popular media organisations."

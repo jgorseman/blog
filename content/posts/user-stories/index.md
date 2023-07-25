@@ -1,12 +1,12 @@
 ---
 title: "Refining user stories"
-date: 2022-01-12
+date: 2023-07-09
 draft: false
 description: "What does a good user story contain?"
 summary: "What a user story is, and what a good one contains in order for developers and testers to work efficiently."
 showSummary: true
 slug: "user-stories"
-tags: ["user story"]
+tags: ["User story"]
 showReadingTime: false
 ---
 
