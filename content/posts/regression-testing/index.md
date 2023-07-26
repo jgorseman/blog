@@ -23,11 +23,11 @@ We ended up improving a lot of things about our development and testing process,
 
 ### The set up
 
-One of the apps we worked on was a scanning & weighing app for parcels. This app had a lot of technical debt in the form of long delayed version migrations, and therefore had to be regression tested thoroughly. 
+One of the apps we worked on was a scanning & weighing app for parcels. This app had a lot of technical debt in the form of long delayed version migrations, and therefore had to be regression tested thoroughly.
 
 There were so many different process flows within this app that we couldn’t remember to test all of them. So simply out of necessity, we decided to create an excel with all the different flows that we needed to test. Thus, the list of test cases was born.
 
-At first, this list this list contained test cases ordered by category: scans, type of labels being scanned. It took a while (as in: a few hours for every run) to get through the list. We then decided to assess the risk on every functionality being tested, and ended up with risk based test cases. 
+At first, this listcontained test cases ordered by category: scans, type of labels being scanned. It took a while (as in: a few hours for every run) to get through the list. We then decided to assess the risk on every functionality being tested, and ended up with risk based test cases.
 
 This way we could choose to test only high risk functionalities if the developers had only touched certain low risk areas of the app, and we had less time than normal to do a full run. This too, is a necessity if your testing is al done manually.
 
