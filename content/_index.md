@@ -13,5 +13,5 @@ This blog is a place for me to share the things I learn along the way.
 <br>
 
 {{< button href="/posts/" target="_self" >}}
-Would you like to know more?
+Check out the blog
 {{< /button >}}
