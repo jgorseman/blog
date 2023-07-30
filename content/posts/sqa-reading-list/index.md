@@ -1,6 +1,6 @@
 ---
 title: "Great books, websites, and tools for software testers"
-date: 2023-07-29
+date: 2023-07-30
 draft: false
 description: "SQA resource list"
 summary: "A list of resources for those who want to improve software and development processes."
