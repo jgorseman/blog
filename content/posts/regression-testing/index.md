@@ -1,5 +1,5 @@
 ---
-title: "Regression testing"
+title: "A short explanation of regression testing"
 date: 2023-07-16
 draft: false
 description: "What's regression testing?"
@@ -10,6 +10,8 @@ tags: ["Regression testing"]
 showReadingTime: false
 summary: "A short explanation of regression testing."
 ---
+
+![dalle-gears](dalle-gears.jpg "A painting of the inside of a machine with different colour gears, generated with Dall-E.")
 
 When I started working as a software tester at a logistics company, the team I was in had a platform of seven different apps, ranging from a year to ten years old in age.
 
