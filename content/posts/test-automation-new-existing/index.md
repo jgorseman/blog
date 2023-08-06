@@ -1,6 +1,6 @@
 ---
 title: "Risk-based testing and test automation"
-date: 2023-08-06
+date: 2023-08-05
 draft: false
 showSummary: true
 slug: "autotest-new-versus-existing-apps"
