@@ -8,19 +8,23 @@ showDate: false
 
 ![author](/img/author.jpg)
 
-Hi, my name is Jorrit Gorseman. I'm a software tester currently based in the Netherlands.
+Hi, my name is Jorrit Gorseman. I'm currently based in the Netherlands.
 
-I'm passionate about making software engineers more productive and improving test and software development processes.
+I'm passionate about making software engineers more productive and improving processes.
 
 I graduated with a Master of Arts from the University of Aberdeen in Scotland in 2020. Philosophy, crazily enough, helps a lot with logical thinking in creating software.
 
-I'm a big fan of all things quality, whether in music, film or books. Some of my current favourites:
+Here's a selection of a few things I like:
 
-Movies:
+Movies/Series:
 
 - Arrival
-- Lord of the Rings Extended Edition
+- The Lord of the Rings
 - Blade Runner 2049
+- Silo
+- True Detective
+- Chernobyl
+- Love, Death + Robots
 
 Music:
 
@@ -28,12 +32,13 @@ Music:
 - Kendrick Lamar
 - Harry Nilsson
 - Childish Gambino
+- Zero 7
+- Röyksopp
 
 Books:
 
-- The Goldfinch
-- Red Rising
+- The Secret History (Donna Tartt)
+- The Red Rising Trilogy (Pierce Brown)
+- Dark Matter, Recursion (Blake Crouch)
 
 I also like to go bouldering, running, and traveling.
-
-Have a great day!
