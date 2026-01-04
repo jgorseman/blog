@@ -8,9 +8,9 @@ showDate: false
 
 ![author](/img/author.jpg)
 
-Hi, my name is Jorrit Gorseman. I'm a software tester currently based in the Netherlands.
+Hi, my name is Jorrit Gorseman. I'm a scrum master based in the Netherlands.
 
-I'm passionate about making software engineers more productive and improving test and software development processes.
+I'm passionate about helping teams become more effective and efficient, and improving software development processes.
 
 I graduated with a Master of Arts from the University of Aberdeen in Scotland in 2020. Philosophy, crazily enough, helps a lot with logical thinking in creating software.
 
@@ -24,6 +24,7 @@ Movies:
 
 Music:
 
+- Jungle
 - Kaytranada
 - Kendrick Lamar
 - Harry Nilsson
@@ -32,8 +33,9 @@ Music:
 Books:
 
 - The Goldfinch
-- Red Rising
+- Red Rising trilogy
+- Project Hail Mary
 
-I also like to go bouldering, running, and traveling.
+I also like board games, runnning, weightlifting, writing (see blog).
 
 Have a great day!
