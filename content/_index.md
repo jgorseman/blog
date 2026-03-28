@@ -10,7 +10,7 @@ Hi, my name is Jorrit Gorseman. I am based in the Netherlands, passionate about 
 
 This blog is a place for me to share the things I learn along the way.
 
-<br>
+    <br>
 
 {{< button href="/posts/" target="_self" >}}
 Check out the blog
