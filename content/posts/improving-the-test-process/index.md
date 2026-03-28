@@ -18,7 +18,7 @@ You might be surprised that there are IT software development teams out there th
 
 But then software gets released that doesn't work, or doesn't work the way the business intended, and expensive incidents keep happening.
 
-### Start testing
+## Start testing
 
 Say you're in a team like that, the first thing you might do is test the new code you add before it gets released. This is a start. If it's the only thing you do, however, the chance that new code will break old functionalities as the system becomes more complex is big.
 
@@ -52,7 +52,7 @@ Even with risk-based testing there's still a lot to test, and testing everything
 
 ### Automate your tests
 
-Here comes test automation. You get a tool that allows you to automate testing the existing functionalities, so there you go, you're now building automated tests. You've got a lot of catching up to do, it seems. 
+Here comes test automation. You get a tool that allows you to automate testing the existing functionalities, so there you go, you're now building automated tests. You've got a lot of catching up to do, it seems.
 
 Don't try to automate everything, because maintenance has a cost as well. Try to find a balance between automating high and possibly medium risk functionality tests, and skip that which can be effectively monitored in the production environment after release.
 
