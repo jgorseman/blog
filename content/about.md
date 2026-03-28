@@ -6,8 +6,6 @@ showReadingTime: false
 showDate: false
 ---
 
-![author](/img/author.jpg)
-
 Hi, my name is Jorrit Gorseman. I'm a scrum master based in the Netherlands.
 
 I'm passionate about helping teams become more effective and efficient, and improving software development processes.
