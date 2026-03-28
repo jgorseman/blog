@@ -12,9 +12,7 @@ Hi, my name is Jorrit Gorseman. I'm a scrum master based in the Netherlands.
 
 I'm passionate about helping teams become more effective and efficient, and improving software development processes.
 
-I graduated with a Master of Arts from the University of Aberdeen in Scotland in 2020. Philosophy, crazily enough, helps a lot with logical thinking in creating software.
-
-I'm a big fan of all things quality, whether in music, film or books. Some of my current favourites:
+A small list of things I like:
 
 Movies:
 
@@ -37,5 +35,3 @@ Books:
 - Project Hail Mary
 
 I also like board games, runnning, weightlifting, writing (see blog).
-
-Have a great day!
